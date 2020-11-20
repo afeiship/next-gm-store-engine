@@ -21,7 +21,7 @@ npm install -S @jswork/next-gm-store-engine
 
 ## usage
 ```js
-import NxGmStoreEngine from '@feizheng/next-gm-store-engine';
+import NxGmStoreEngine from '@jswork/next-gm-store-engine';
 
 // Must be grant:
 
