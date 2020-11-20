@@ -3,7 +3,7 @@
  * description: Store engin for tampermonkey GM_storage.
  * homepage: https://github.com/afeiship/next-gm-store-engine
  * version: 1.0.0
- * date: 2020-11-20 16:44:28
+ * date: 2020-11-20 16:45:06
  * license: MIT
  */
 
