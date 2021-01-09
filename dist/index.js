@@ -2,8 +2,8 @@
  * name: @jswork/next-gm-store-engine
  * description: Store engin for tampermonkey GM_storage.
  * homepage: https://github.com/afeiship/next-gm-store-engine
- * version: 1.0.2
- * date: 2021-01-06 22:09:56
+ * version: 1.0.3
+ * date: 2021-01-09 16:43:08
  * license: MIT
  */
 
